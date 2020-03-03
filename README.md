@@ -5,7 +5,7 @@ Copyright 2019-2020 by Generali Deutschland AG
 Design by [@jinye_jia](https://www.instagram.com/jinye_jia)
 
 ## Purpose  
-These postcards were created as part of the Generali "Agile Base Camp" program. The cards are an easy way to say thanks and appreciation to the participants of the agile teams.  
+These postcards were created as part of the Generali "Agile Base Camp" (ABC) program. The cards are an easy way to say thanks and appreciation to the participants of the agile teams.  
 
 ## Cards  
 
