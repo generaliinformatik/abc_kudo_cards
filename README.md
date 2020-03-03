@@ -9,7 +9,7 @@ These postcards were created as part of the Generali "Agile Base Camp" (ABC) pro
 
 ## Cards  
 
-Click images to preview files. Click links below images to direct download.  
+Instructions: Click covers to preview files. Click links below covers to download directly.  
 
 | [![awesome](docs/images/awesome-front.png)](docs/awesome.pdf) | [![brilliant](docs/images/brilliant-front.png)](docs/brilliant.pdf) | [![congratulations](docs/images/congratulations-front.png)](docs/congratulations.pdf) | [![fantastic](docs/images/fantastic-front.png)](docs/fantastic.pdf) |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
