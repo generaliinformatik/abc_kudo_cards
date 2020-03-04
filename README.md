@@ -19,4 +19,6 @@ Instructions: Click covers to preview files. Click links below covers to downloa
 
 ## License  
 
+```
 CC BY-NC-ND 4.0 by 2020 Generali Deutschland AG. 
+
